@@ -1,4 +1,4 @@
-package com.example.admin.pictures;
+package apcs.chillme;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

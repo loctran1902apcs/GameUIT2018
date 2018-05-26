@@ -1,4 +1,4 @@
-package com.example.admin.pictures;
+package apcs.chillme;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.widget.Toast;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class Pictures extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.admin.pictures;
+package apcs.chillme;
 
 public class PictureInfo {
     int picresource;
